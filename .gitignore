@@ -1,0 +1,30 @@
+# Python
+*.pyc
+__pycache__/
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+
+# Virtual Environment
+venv/
+.env
+
+# Node.js
+/node_modules/
+npm-debug.log
+
+# Production build
+/build
+
+# IDE files (if not using any specific IDE)
+.vscode/
+.idea/
+*.iml
+
+# macOS
+.DS_Store
